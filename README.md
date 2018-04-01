@@ -6,3 +6,4 @@
 - blade layout 문법 적용
 - Laravel에서 지원하는 webpack으로 scss,js  처리
 - 회원가입, 로그인, 로그아웃 처리
+- CURL resource 적용
